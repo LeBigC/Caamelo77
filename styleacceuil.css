@@ -1,0 +1,79 @@
+.body {
+    background-color: rgb(21, 48, 48);
+}
+.header {
+background-color: black;
+}
+.header .lk {
+    color: white;
+    display: inline-block;
+    margin-top: 10%;
+    margin-left: 20%;
+    font-size: larger;
+}
+.header .dis {
+    margin-left: 70%;
+}
+.header .is {
+    color: white;
+    text-align: end;
+    margin-top: 10%;
+    font-size: larger;
+    
+}
+.header .c2a {
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 1%;
+}
+
+.seven > h2 {
+    margin-top: 3%;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: rgb(240, 237, 237);
+}
+.seven .story {
+    background-color: rgb(59, 37, 9);
+    padding: 0.5%;
+    margin-inline: 30%;
+    color: white;
+    border-radius: 1rem;
+}
+.seven .story > p{
+    margin-left: 10%;
+    margin-top: 7%;
+    margin-bottom: 5%;
+}
+.seven .story > iframe {
+    margin-left: 5%;
+}
+.singles{
+    display: inline-block;
+    border-radius: 2rem;
+}
+.singles .card {
+    height: 10rem;
+    width: 10rem;
+    display: inline-block;
+    background-color:rgb(59, 37, 9) ;
+    color: white;
+}
+.singles .card-body {
+    background-color:rgb(59, 37, 9) ;
+}
+.button {
+    background-color: rgb(5, 43, 5);
+    border: none;
+    color: aliceblue;
+    padding:  15px ;
+    text-align: center ;
+    text-decoration: none;
+    display:  inline-block;
+    font-size: 16px ;
+    margin: 4px 2px ;
+    border-radius: 2rem;
+
+}
